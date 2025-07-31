@@ -66,6 +66,33 @@
 
 </details>
 
+
+## Ethereum Tooling
+### [Alloy](https://github.com/alloy-rs/alloy) : Rewrite of ethers in Rust
+
+<details>
+
+<summary>Contributions</summary>
+
+- [2707](https://github.com/alloy-rs/alloy/pull/2707) : Allow sharing Ledger transport in LedgerSigner 
+- [2638](https://github.com/alloy-rs/alloy/pull/2638) : Add BuilderBlockValidationV5 for relay for Fusaka
+- [2202](https://github.com/alloy-rs/alloy/pull/2202) : Add BlobAndProofV2
+- [2106](https://github.com/alloy-rs/alloy/pull/2106) : Implement StatesOverrideBuilder
+
+
+</details>
+
+### [Foundry](https://github.com/foundry-rs/foundry) : Toolkit for Ethereum application development
+
+<details>
+
+<summary>Contributions</summary>
+
+- [10924](https://github.com/foundry-rs/foundry/pull/10924) : Add flag to disable alias
+
+
+</details>
+
 ## Optimism
 
 ### [Kona](https://github.com/op-rs/kona) : OP stack in Rust
@@ -84,6 +111,20 @@
 - [1601](https://github.com/op-rs/kona/pull/1601) : Contract code tests
 - [1485](https://github.com/op-rs/kona/pull/1485) : Sequencer cli parameters
 - More [PRs](https://github.com/op-rs/kona/pulls?q=+is%3Apr+author%3Avarun-doshi+)
+
+</details>
+
+### [Op-alloy](https://github.com/alloy-rs/op-alloy) : Alloy support for Optimism
+
+<details>
+  
+<summary>Contributions</summary>
+
+- [454](https://github.com/alloy-rs/op-alloy/pull/454) : Implement AnyRpcTransaction for OpTxEnvelope 
+- [451](https://github.com/alloy-rs/op-alloy/pull/451) : Added helpers for opExecutionData
+- [436](https://github.com/alloy-rs/op-alloy/pull/436) : Custom deserialize impl for OpExecutionPayload
+- [431](https://github.com/alloy-rs/op-alloy/pull/431) : Remove IsthmusPayloadFields
+- [429](https://github.com/alloy-rs/op-alloy/pull/429) : Implement OpExecutionData
 
 </details>
 
