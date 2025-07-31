@@ -64,8 +64,23 @@
 - [31](https://github.com/ReamLabs/ream/pull/31) : Implement Fork Choice functions
 - More [PRs](https://github.com/ReamLabs/ream/pulls?page=1&q=is%3Apr+author%3Avarun-doshi)
 
+</details>
+
+## Miden
+
+
+<details>
+
+<summary>Contributions</summary>
+
+- [Miden-base](https://github.com/0xMiden/miden-base/pulls?q=+is%3Apr+author%3Avarun-doshi+) : Core components of the Miden protocol
+- [Miden-client](https://github.com/0xMiden/miden-client/pulls?q=+is%3Apr+author%3Avarun-doshi+) : Client library that facilitates interaction with the Miden blockchain
+- [Miden-node](https://github.com/0xMiden/miden-node/pulls?q=+is%3Apr+author%3Avarun-doshi+) : Implementation of the node for the Miden blockchain
+- [Miden-VM](https://github.com/0xMiden/miden-vm/pulls?q=+is%3Apr+author%3Avarun-doshi+) : STARK based Miden VM
+- [Miden-crypto](https://github.com/0xMiden/crypto/pulls?q=is%3Apr+author%3Avarun-doshi+is%3Aclosed) : Cryptographic primitives used in Miden rollup
 
 </details>
+
 
 ## Bitcoin Ecosystem
 
