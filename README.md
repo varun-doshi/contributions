@@ -23,7 +23,7 @@
 </details>
 
 
-### [Ethrex](https://github.com/lambdaclass/ethrex)
+### [Ethrex](https://github.com/lambdaclass/ethrex) : Execution client for L1 and L2
 
 <details>
 
@@ -63,6 +63,27 @@
 - [371](https://github.com/ReamLabs/ream/pull/371) : Implement Checkpoint Sync 
 - [31](https://github.com/ReamLabs/ream/pull/31) : Implement Fork Choice functions
 - More [PRs](https://github.com/ReamLabs/ream/pulls?page=1&q=is%3Apr+author%3Avarun-doshi)
+
+</details>
+
+## Optimism
+
+### [Kona](https://github.com/op-rs/kona) : OP stack in Rust
+
+<details>
+
+
+
+<summary>Contributions</summary>
+
+- [2460](https://github.com/op-rs/kona/pull/2460) : Support sequencer recovery mode
+- [2394](https://github.com/op-rs/kona/pull/2394) : L2 Chain ID Abstraction
+- [2235](https://github.com/op-rs/kona/pull/2235) : Supervisor Engine Resets
+- [2145](https://github.com/op-rs/kona/pull/2145) : Fix localUnsafe always points to genesis
+- [2072](https://github.com/op-rs/kona/pull/2072) : Implement opp2p_listBlockedSubnets
+- [1601](https://github.com/op-rs/kona/pull/1601) : Contract code tests
+- [1485](https://github.com/op-rs/kona/pull/1485) : Sequencer cli parameters
+- More [PRs](https://github.com/op-rs/kona/pulls?q=+is%3Apr+author%3Avarun-doshi+)
 
 </details>
 
