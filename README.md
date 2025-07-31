@@ -34,6 +34,39 @@
 
 </details>
 
+
+## Ethereum Consensus Clients
+### [Lighthouse](https://github.com/sigp/lighthouse) : Ethereum consensus client in Rust
+
+<details>
+
+<summary>Contributions</summary>
+
+- [7279](https://github.com/sigp/lighthouse/pull/7279) : Update mainnet bootnodes
+- [7253](https://github.com/sigp/lighthouse/pull/7253) : Better error for light_client/bootstrap endpoint
+- [7222](https://github.com/sigp/lighthouse/pull/7222) : Add more bootnodes for Hoodi and Sepolia  
+- [7160](https://github.com/sigp/lighthouse/pull/7160) : Update hoodi config to use new fields 
+- [7134](https://github.com/sigp/lighthouse/pull/7134) : Refactor BlockProposerContents
+
+
+</details>
+
+### [Ream](https://github.com/ReamLabs/ream) : Ethereum Beam client written in Rust
+
+<details>
+
+<summary>Contributions</summary>
+
+- [618](https://github.com/ReamLabs/ream/pull/618) : Forward and validate gossipsub beacon block
+- [584](https://github.com/ReamLabs/ream/pull/584) : Implement builder specifications
+- [458](https://github.com/ReamLabs/ream/pull/458) : Weak Subjectivity Check
+- [371](https://github.com/ReamLabs/ream/pull/371) : Implement Checkpoint Sync 
+- [31](https://github.com/ReamLabs/ream/pull/31) : Implement Fork Choice functions
+- More [PRs](https://github.com/ReamLabs/ream/pulls?page=1&q=is%3Apr+author%3Avarun-doshi)
+
+
+</details>
+
 ## Bitcoin Ecosystem
 
 ### [Citrea](https://github.com/chainwayxyz/citrea) : Bitcoin's First ZK Rollup
