@@ -32,5 +32,56 @@
 - [2125](https://github.com/lambdaclass/ethrex/pull/2125) : Added validation before removedb
 - [1762](https://github.com/lambdaclass/ethrex/pull/1762) : Replace specId with Fork
 
+</details>
+
+## Bitcoin Ecosystem
+
+### [Citrea](https://github.com/chainwayxyz/citrea) : Bitcoin's First ZK Rollup
+
+<details>
+
+<summary>Contributions</summary>
+
+- [2572](https://github.com/chainwayxyz/citrea/pull/2572) : Remove CommitmentMerkleRoots table from Ledger DB
+- [2549](https://github.com/chainwayxyz/citrea/pull/2549) : Table warn and move height function
+- [2517](https://github.com/chainwayxyz/citrea/pull/2517) : Remove sequencer_pub_key from HookL2BlockInfo 
+- [2405](https://github.com/chainwayxyz/citrea/pull/2405) : Return error for no bytecode
+
+</details>
+
+### [Shinigami](https://github.com/starkware-bitcoin/shinigami) : Bitcoin script VM
+
+<details>
+
+<summary>Contributions</summary>
+
+- [287](https://github.com/starkware-bitcoin/shinigami/pull/287) : Fix P2SH failing tests
+- [268](https://github.com/starkware-bitcoin/shinigami/pull/268) : Implement P2SH Transaction Type
+- [79](https://github.com/starkware-bitcoin/shinigami/pull/79) : Implement OP_SWAP & OP_2SWAP opcodes
+
+</details>
+
+### [Mikan](https://github.com/starkware-bitcoin/mikan) : ZK Friendly DA Layer for Bitcoin L2s
+
+<details>
+
+<summary>Contributions</summary>
+
+- [34](https://github.com/starkware-bitcoin/mikan/pull/34) : Add block table + serialization
+- [31](https://github.com/starkware-bitcoin/mikan/pull/31) : Update Block structure
+- [26](https://github.com/starkware-bitcoin/mikan/pull/26) : Implement Block structure
+- [25](https://github.com/starkware-bitcoin/mikan/pull/25) : Fix toolchain extension
+
+</details>
+
+### [BTCzee](https://github.com/zig-bitcoin/btczee) : Bitcoin protocol implementation in Zig
+
+<details>
+
+<summary>Contributions</summary>
+
+- [113](https://github.com/zig-bitcoin/btczee/pull/113) : Implement ScriptBuilder
+- [34](https://github.com/zig-bitcoin/btczee/pull/34) : Implement more Opcodes
+- [25](https://github.com/zig-bitcoin/btczee/pull/25) : Implement Opcodes
 
 </details>
