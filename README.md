@@ -1,7 +1,7 @@
 # Contributions made by Varun Doshi
 
 ## Ethereum Execution Clients
-### [Reth](https://github.com/paradigmxyz/reth) : Ethereum Execution Client in Rust
+#### [Reth](https://github.com/paradigmxyz/reth) : *Ethereum Execution Client in Rust*
 
 <details>
 
@@ -23,7 +23,7 @@
 </details>
 
 
-### [Ethrex](https://github.com/lambdaclass/ethrex) : Execution client for L1 and L2
+#### [Ethrex](https://github.com/lambdaclass/ethrex) : *Execution client for L1 and L2*
 
 <details>
 
@@ -36,7 +36,7 @@
 
 
 ## Ethereum Consensus Clients
-### [Lighthouse](https://github.com/sigp/lighthouse) : Ethereum consensus client in Rust
+#### [Lighthouse](https://github.com/sigp/lighthouse) : *Ethereum consensus client in Rust*
 
 <details>
 
@@ -51,7 +51,7 @@
 
 </details>
 
-### [Ream](https://github.com/ReamLabs/ream) : Ethereum Beam client written in Rust
+#### [Ream](https://github.com/ReamLabs/ream) : *Ethereum Beam client written in Rust*
 
 <details>
 
@@ -68,7 +68,7 @@
 
 
 ## Ethereum Tooling
-### [Alloy](https://github.com/alloy-rs/alloy) : Rewrite of ethers in Rust
+#### [Alloy](https://github.com/alloy-rs/alloy) : *Rewrite of ethers in Rust*
 
 <details>
 
@@ -82,7 +82,7 @@
 
 </details>
 
-### [Foundry](https://github.com/foundry-rs/foundry) : Toolkit for Ethereum application development
+#### [Foundry](https://github.com/foundry-rs/foundry) : *Toolkit for Ethereum application development*
 
 <details>
 
@@ -95,7 +95,7 @@
 
 ## Optimism
 
-### [Kona](https://github.com/op-rs/kona) : OP stack in Rust
+#### [Kona](https://github.com/op-rs/kona) : *OP stack in Rust*
 
 <details>
 
@@ -114,7 +114,7 @@
 
 </details>
 
-### [Op-alloy](https://github.com/alloy-rs/op-alloy) : Alloy support for Optimism
+#### [Op-alloy](https://github.com/alloy-rs/op-alloy) : *Alloy support for Optimism*
 
 <details>
   
@@ -146,7 +146,7 @@
 
 ## Fuel
 
-### [Fuel VM](https://github.com/FuelLabs/fuel-vm) : Fuel v2 interpreter in Rust
+#### [Fuel VM](https://github.com/FuelLabs/fuel-vm) : *Fuel v2 interpreter in Rust*
 
 <details>
 
@@ -158,7 +158,7 @@
 
 ## Bitcoin Ecosystem
 
-### [Citrea](https://github.com/chainwayxyz/citrea) : Bitcoin's First ZK Rollup
+#### [Citrea](https://github.com/chainwayxyz/citrea) : *Bitcoin's First ZK Rollup*
 
 <details>
 
@@ -171,7 +171,7 @@
 
 </details>
 
-### [Shinigami](https://github.com/starkware-bitcoin/shinigami) : Bitcoin script VM
+#### [Shinigami](https://github.com/starkware-bitcoin/shinigami) : *Bitcoin script VM*
 
 <details>
 
@@ -183,7 +183,7 @@
 
 </details>
 
-### [Mikan](https://github.com/starkware-bitcoin/mikan) : ZK Friendly DA Layer for Bitcoin L2s
+#### [Mikan](https://github.com/starkware-bitcoin/mikan) : *ZK Friendly DA Layer for Bitcoin L2s*
 
 <details>
 
@@ -196,7 +196,7 @@
 
 </details>
 
-### [BTCzee](https://github.com/zig-bitcoin/btczee) : Bitcoin protocol implementation in Zig
+#### [BTCzee](https://github.com/zig-bitcoin/btczee) : *Bitcoin protocol implementation in Zig*
 
 <details>
 
