@@ -144,6 +144,18 @@
 </details>
 
 
+## Fuel
+
+### [Fuel VM](https://github.com/FuelLabs/fuel-vm) : Fuel v2 interpreter in Rust
+
+<details>
+
+<summary>Contributions</summary>
+
+- [964](https://github.com/FuelLabs/fuel-vm/pull/964) : Refactor check_unique_rules to be more modular
+
+</details>
+
 ## Bitcoin Ecosystem
 
 ### [Citrea](https://github.com/chainwayxyz/citrea) : Bitcoin's First ZK Rollup
