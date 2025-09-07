@@ -156,6 +156,21 @@
 
 </details>
 
+## Scroll
+
+#### [Fuel VM](https://github.com/FuelLabs/fuel-vm) : *Fuel v2 interpreter in Rust*
+
+<details>
+
+<summary>Contributions</summary>
+
+- [287](https://github.com/scroll-tech/rollup-node/pull/287) : Skip empty block
+- [272](https://github.com/scroll-tech/rollup-node/pull/272) : Standardize order for incoming blocks
+- [259](https://github.com/scroll-tech/rollup-node/pull/259) : Cache incoming blocks to prevent duplication
+- [241](https://github.com/scroll-tech/rollup-node/pull/241) : Verify L1 Message Index
+
+</details>
+
 ## Bitcoin Ecosystem
 
 #### [Citrea](https://github.com/chainwayxyz/citrea) : *Bitcoin's First ZK Rollup*
