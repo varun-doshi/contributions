@@ -158,7 +158,7 @@
 
 ## Scroll
 
-#### [Fuel VM](https://github.com/FuelLabs/fuel-vm) : *Fuel v2 interpreter in Rust*
+#### [Scroll Node](https://github.com/scroll-tech/rollup-node) : *Scroll L2 Node*
 
 <details>
 
