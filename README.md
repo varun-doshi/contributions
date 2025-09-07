@@ -152,7 +152,19 @@
 
 <summary>Contributions</summary>
 
+- [969](https://github.com/FuelLabs/fuel-vm/pull/969) : Consolidate V1 Input types
 - [964](https://github.com/FuelLabs/fuel-vm/pull/964) : Refactor check_unique_rules to be more modular
+
+</details>
+
+#### [Fuel Network Watchtower](https://github.com/FuelLabs/network-watchtower) : *The watch tower that monitors the Fuel network.*
+
+<details>
+
+<summary>Contributions</summary>
+
+- [114](https://github.com/FuelLabs/network-watchtower/pull/114) : Refactor DownloaderConfig
+
 
 </details>
 
